@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @shubham311994
-- 👀 I’m interested in Python, ML, DL, 
+- 👀 I’m interested in Python, Go, Java, ML, DL, Kafka, Airflow, Argo, Docker, Kubernetes, and CI/CD with Jenkins
 - 🌱 I’m currently learning Deep Learning and different Cloud platforms
 - 💞️ I’m looking to collaborate on Deep Learning and Deployment of ML models on different cloud platforms
 - 📫 How to reach me shubham311994@gmail.com
